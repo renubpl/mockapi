@@ -1,0 +1,28 @@
+{
+	"goals":[
+	{
+		"id":1, 
+		"title":"Emergency Saving", 
+		"starttarget": 0,
+		"endtarget": 2000
+	},
+	{
+		"id":2, 
+		"title":"Popup Expenses", 
+		"starttarget": 0, 
+		"endtarget": 4000
+	},
+	{
+		"id":3, 
+		"title":"Car Saving",
+		"starttarget": 0, 
+		"endtarget": 3000
+	},
+	{
+		"id":4, 
+		"title":"House", 
+		"starttarget": 0, 
+		"endtarget": 50000
+	}	
+	]
+}
